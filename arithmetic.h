@@ -18,7 +18,7 @@
 #include "string.h"
 #include "stdlib.h"
 #include "math.h"
-
+#include "malloc.h"
 #define max(a,b) a>b?a:b
 #define MAX 10000
 
